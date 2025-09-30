@@ -1,7 +1,11 @@
-## Employee 
+## Employee API Test Automation using Postman
 
 ## Prerequisite
+- Postman
 - Nodejs
+- Visual Stuido Code
+- Newman
+- Github
 
 ## About this project
 this
@@ -12,6 +16,7 @@ this
 https://github.com/mashrur21/EmployeeApiProject
 ```
 
-## Api Documentation [Api document]()
+## Api Documentation [Api document](https://api.postman.com/collections/48316334-e4e5e95e-722d-45e6-85df-f8bc082ec0d7?access_key=PMAT-01K62MXMQQ7M4B8AD0K4Z921V9)
 
 ## Newman Report
+[report.html](https://github.com/user-attachments/files/22627170/report.html)
